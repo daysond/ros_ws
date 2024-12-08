@@ -94,7 +94,7 @@ In summary, instead of reading the feed directly from the cameras, we should:
 
 1.  ```servo.py``` is modification of [SEA700 Lab](https://seneca-bsa.github.io/bsa/sea700/lab5/) material under Lab 5, section **JetAuto Robot Arm Control (Without MoveIt)**.
 2.  ```cube_finder.py``` is inspired from the example code in ```jetauto_example/color_detect```.
-3. ```navigator.py``` is based on the article [Sending Simple Goals](https://wiki.ros.org/navigation/Tutorials/SendingSimpleGoals) on Ros.org.
+3. ```navigator.py``` is based on the article [Sending Simple Goals](https://wiki.ros.org/navigation/Tutorials/SendingSimpleGoals) and [Localization](https://wiki.ros.org/Robots/PMB-2/Tutorials/Navigation/Localization) on Ros.org.
 
 ## Note
 
