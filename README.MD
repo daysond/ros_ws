@@ -4,7 +4,7 @@ The robot will navigate to a pick up location to pick up either red, green or bl
 
 ## Demo Video
 
-![Demo Video](./sea700_demo.mp4)
+[Demo Video](./sea700_demo.mp4)
 
 <video width="400" controls>
   <source src="./sea700_demo.mp4" type="video/mp4">
