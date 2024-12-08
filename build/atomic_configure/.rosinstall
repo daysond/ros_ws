@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/jetauto/ros_ws/devel/setup.sh

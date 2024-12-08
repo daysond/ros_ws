@@ -1,0 +1,8 @@
+prefix=/home/jetauto/ros_ws/devel
+
+Name: move_group_python_interface_tutorial
+Description: Description of move_group_python_interface_tutorial
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/jetauto/ros_ws/install
+
+Name: lab4_jetauto_control
+Description: Description of lab4_jetauto_control
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

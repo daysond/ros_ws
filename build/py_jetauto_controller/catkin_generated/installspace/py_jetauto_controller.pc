@@ -1,0 +1,8 @@
+prefix=/home/jetauto/ros_ws/install
+
+Name: py_jetauto_controller
+Description: Description of py_jetauto_controller
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
